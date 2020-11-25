@@ -9,6 +9,6 @@
 <img src="Resources/StackOverflow.png" width="25" height="25">
  </a>
  
- <a href="ssokalai@gmail.com">
+ <a href="mailto:ssokalai@gmail.com">
 <img src="Resources/mail.png" width="25" height="21"> 
  </a>
