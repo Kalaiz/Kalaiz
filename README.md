@@ -1,7 +1,7 @@
 ### Hi there 😄 👋
  I am currently studying Software Engineering and am interested in Android, Linux and Data Engineering.
 
-Relevant Stuffs:
+You contact me via:
 
 - [Linkedin](https://www.linkedin.com/in/skalaiarasan/)
 
