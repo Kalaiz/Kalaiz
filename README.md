@@ -6,4 +6,4 @@
 
 <img src="Resources/StackOverflow.png" width="15" height="15">[/11200630/kalai](https://stackoverflow.com/users/11200630/kalai)
 
-<img src="Resources/mail.png" width="15" height="15"> ssokalai@gmail.com
+<img src="Resources/mail.png" width="15" height="12"> ssokalai@gmail.com
