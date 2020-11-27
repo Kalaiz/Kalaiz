@@ -1,4 +1,4 @@
-### Hi there 😄 ![Waving Hand](Resources/wavingHand.gif)
+### Hi there <img src="Resources/wavingHand.gif"  width="3%" length="3%" >
  I am currently studying Software Engineering and am interested in Android, Linux and Data Engineering.
 
 <a href="https://www.linkedin.com/in/skalaiarasan/">
