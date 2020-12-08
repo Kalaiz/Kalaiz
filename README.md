@@ -1,14 +1,19 @@
-### Hi there 👋
+### Hi there <img src="resources/hi.gif" width="30" height="30">
+
  I am currently studying Software Engineering and am interested in Android and Linux.
 
 <a href="https://www.linkedin.com/in/skalaiarasan/">
-<img src="Resources/LinkedIn.png" width="35" height="31">
+<img src="resources/linkedIn.svg" >
  </a>
 
 <a href="https://stackoverflow.com/users/11200630/kalai">
-<img src="Resources/StackOverflow.png" width="35" height="35">
+<img src="resources/stackoverflow.svg" >
  </a>
  
  <a href="mailto:ssokalai@gmail.com">
-<img src="Resources/mail.png" width="35" height="31"> 
+<img src="resources/gmail.svg" > 
+ </a>
+
+<a href="kalaiz.github.io">
+<img src="resources/personal-website.svg" >
  </a>
