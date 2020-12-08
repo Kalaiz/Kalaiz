@@ -14,6 +14,6 @@
 <img src="resources/gmail.svg" > 
  </a>
 
-<a href="kalaiz.github.io">
+<a href="https://kalaiz.github.io/">
 <img src="resources/personal-website.svg" >
  </a>
