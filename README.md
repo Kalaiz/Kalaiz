@@ -1,6 +1,6 @@
 ### Hi there <img src="resources/hi.gif" width="30" height="30">
 
- I am currently studying Software Engineering and am interested in Android and Linux.
+ I am currently studying Software Engineering and interested in Android and Linux.
 
 <a href="https://www.linkedin.com/in/skalaiarasan/">
 <img src="resources/linkedIn.svg" >
