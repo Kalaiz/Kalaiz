@@ -1,6 +1,6 @@
 ### Hi there <img src="resources/hi.gif" width="30" height="30">
 
-I am a Software Engineering graduate who is interested in Android and Linux.
+Feel free to checkout the below links to know more about me!
 
 <a href="https://www.linkedin.com/in/skalaiarasan/">
 <img src="resources/linkedIn.svg" >
