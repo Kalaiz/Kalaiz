@@ -1,6 +1,6 @@
 ### Hi there <img src="resources/hi.gif" width="30" height="30">
 
-Feel free to checkout the below links to know more about me!
+Feel free to checkout the below links!
 
 <a href="https://www.linkedin.com/in/skalaiarasan/">
 <img src="resources/linkedIn.svg" >
